@@ -1,0 +1,7 @@
+server:
+  port: 8082
+  
+awsCredentials:
+  access_key_id: AKIA2MM4TOJX7EG7MDEK
+  secret_access_key: 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
+  client-end-point: a1ajkxg7xkwout-ats.iot.us-west-2.amazonaws.com
